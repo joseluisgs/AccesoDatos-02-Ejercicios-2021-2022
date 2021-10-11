@@ -2,10 +2,10 @@
 Acceso a Datos - 02 XML. 2DAM. Ejercicios realizados por el alumnado. Curso 2021-2022
 
 
-![imagen](https://antarestrade.world/wp-content/uploads/2020/08/Blockcain-Seo.png)
+![imagen](https://woobro.design/thumbnails/26/development-illustration-5de17f18abc70.png)
 
 ## ¿Cómo Colaborar?
-Estos ejercicios están resueltos por el alumnado y están basados en la relación de la [Unidad 2: Programación Multihilo](https://github.com/joseluisgs/ProgServiciosProcesos-02-2021-2022).
+Estos ejercicios están resueltos por el alumnado y están basados en la relación de la [Unidad 2: XML](https://github.com/joseluisgs/AccesoDatos-02-2021-2022).
 
 Para subir tu ejercicio a GitHub, **POR FAVOR SIGUE ESTAS NORMAS**:
 
