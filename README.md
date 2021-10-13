@@ -12,7 +12,7 @@ Para subir tu ejercicio a GitHub, **POR FAVOR SIGUE ESTAS NORMAS**:
 - Hazte un fork de este repositorio
 - Trabaja con GitFlow
 - Crea una reama feature con tu Iniciales y apellido y el nombre del problema realizado por el profesor, por ejemplo: /feature/JLGonzalez/rss-dom
-- Crea un directorio dentro del directorio del problema del repositorio con tu Iniciales y Apellido, por ejemplo soluciones/rss-dom/JLGonzalez. 
+- Crea un directorio dentro del directorio del problema del repositorio con tu Iniciales y Apellido, por ejemplo rss-dom/JLGonzalez. 
 - Copia tu proyecto de IntellIJ creado y gestionado con Maven a tu directorio creado. Debes tener en cuenta que el gitignore de ese proyecto debe evitar subir el directorio /out y /target de Intellij.
 - Cierra la Feature siguiendo el flujo de GitFlow, fusionando los cambios a Develop, pero no borres esa rama por si la vuelves a necesitar.
 - Confirma los cambios y sube los cambios a tu repositorio GitHub.
@@ -29,6 +29,22 @@ Para subir tu ejercicio a GitHub, **POR FAVOR SIGUE ESTAS NORMAS**:
 Implementa a tu manera un lector RSS usando las librerías DOM que vienen integradas en Java
 
 Entrega 13/10/2021
+
+### RSS-SAX
+Implementa a tu manera un lector RSS usando las librerías SAX que vienen integradas en Java
+
+Entrega 20/10/2021
+
+### RSS-JDOM
+Implementa a tu manera un lector RSS usando las librerías JDOM vista en clase. Usa XPATH para hacer algunas consultas que consideres oportunas, por ejemplo obtener todos los vídeos, o la tercera noticia, o las noticias de una categoria determinada.
+Sería interesante que la noticia tuviese un atributo con el identificador que tú quieras darle. Además un elemento o propiedad que sea multimedia, y pueda ser imagen o video y su URL.
+Cambia la fecha para que aparezca en formato DD/MM/AAAA a las HH:MM:SS
+Repite dicas busquedas usando la API Stream.
+Reflexiona sobre qué librería de las tres utilizadas y sistemas de consultas son más apropiados en cada momento.
+Este ejercicio puede ser un ejercicio de examen (de hecho lo fue una vez)
+
+Entrega 20/10/2021
+
 
 
 ## Autor
