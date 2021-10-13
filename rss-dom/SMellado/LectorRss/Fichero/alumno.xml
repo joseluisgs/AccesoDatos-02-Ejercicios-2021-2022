@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+    <alumno>
+        <datos>
+            <nombre>Pepe</nombre>
+            <apellido>Garcia</apellido>
+            <dni>0000000001X</dni>
+        </datos>
+        <comentario>repetidor</comentario>
+    </alumno>
+    <alumno>
+        <datos>
+            <nombre>Pepito</nombre>
+            <apellido>Lopez</apellido>
+            <dni>0000000002X</dni>
+        </datos>
+        <comentario>primer año</comentario>
+    </alumno>
+    <alumno>
+        <datos>
+            <nombre>Raquel</nombre>
+            <apellido>Moreno</apellido>
+            <dni>0000000003X</dni>
+        </datos>
+        <comentario>repetidora</comentario>
+    </alumno>
+</alumnos>
