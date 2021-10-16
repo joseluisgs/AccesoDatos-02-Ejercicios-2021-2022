@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioeca>
+    <libro>
+        <titulo>las lagrimas de shiva</titulo>
+        <autor>Cesar Mayorqui</autor>
+        <numeroHojas>230</numeroHojas>
+    </libro>
+    <libro>
+        <titulo>el libro de la selva</titulo>
+        <autor>Rudyard Kipling</autor>
+        <numeroHojas>124</numeroHojas>
+    </libro>
+    <libro>
+        <titulo>el senior de los anillos</titulo>
+        <autor>J. R. R. Tolkien</autor>
+        <numeroHojas>356</numeroHojas>
+    </libro>
+    <libro>
+        <titulo>teo va al parque</titulo>
+        <autor>Teodoro Gomez</autor>
+        <numeroHojas>26</numeroHojas>
+    </libro>
+</biblioeca>
