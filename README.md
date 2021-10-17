@@ -45,6 +45,25 @@ Este ejercicio puede ser un ejercicio de examen (de hecho lo fue una vez)
 
 Entrega 20/10/2021
 
+ ### Usando JAXB
+Usando información de internet: https://www.ibm.com/docs/es/was/9.0.5?topic=services-using-jaxb-xml-data-binding
+
+Procesar el RSS del País usando algunos de los parser creados (quizás debas ajustarlo un poco para lo que se te pide), creando una lista de noticias con los campos que elijas. Esta lista de Noticias la vamos a almacenar en en un base de datos llamada mis_noticias.xml usando JAXB, pero teniendo lo siguiente en cuenta:
+- Debemos darle un ID a la noticia basado en un UUID como atributo.
+- Una noticia esta compuesta de un objeto multimedia, que puede ser vídeo o imagen.
+- Además debe tener un campo de cuándo se ha agregado.
+
+En nuestro programa accedemos con JASX, cuando lo iniciemos nos debe permitir hacer un CRUD con nuestra base de datos siguiendo estas opciones:
+- Recargar noticias. Añade del RSS noticias que no existan, deberás comprar su existencia por el titulo o algún identificador único que te ofrezca el RSS una vez parseado para no repetir valores.
+- Mostrar todas las noticias
+- Mostrar noticias de hoy de 5 en 5.
+- Añadir una noticia pidiéndole los campos de manera manual
+- Actualiza una noticia
+- Eliminar una noticia.
+
+Por supuesto después de cada operación debemos salvar nuestra base de datos. Además se debe generar el esquema automatizado de las noticias opcional, por si nos ofrecen un XML de noticias podamos cargarlo y sustituir el nuestro.
+
+Entrega 25/10/2021
 
 
 ## Autor
