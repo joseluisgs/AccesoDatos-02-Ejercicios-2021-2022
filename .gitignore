@@ -113,3 +113,9 @@ build
 soluciones/rss-dom/FSToledo/.idea/
 
 soluciones/rss-dom/FSToledo/target/
+
+rss-dom/FSToledo/.idea/
+
+rss-sax/.idea/
+
+rss-sax/target/
