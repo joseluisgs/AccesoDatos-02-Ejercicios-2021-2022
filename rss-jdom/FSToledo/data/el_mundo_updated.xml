@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ue="https://www.elmundo.es/imasd/rss/" version="2.0">
+  <channel>
+    <title><![CDATA[Portada // elmundo]]></title>
+    <link>https://www.elmundo.es</link>
+    <description><![CDATA[Portada // elmundo]]></description>
+    <language>es</language>
+    <copyright><![CDATA[(c)  2021, Unidad Editorial, S.A.]]></copyright>
+    <pubDate>Tue, 12 Oct 2021 18:04:28 +0200</pubDate>
+    <lastBuildDate>Tue, 12 Oct 2021 18:04:28 +0200</lastBuildDate>
+    <category><![CDATA[News & Politics]]></category>
+    <ttl>60</ttl>
+    <atom:link href="https://www.elmundo.es/rss/index.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <title><![CDATA[Portada // elmundo]]></title>
+      <url>https://e00-elmundo.uecdn.es/imagen/canalima144.gif</url>
+      <link>https://www.elmundo.es</link>
+      <width>144</width>
+      <height>24</height>
+      <description><![CDATA[elmundo.es]]></description>
+    </image>
+    <item>
+      <title><![CDATA[El FMI rebaja en medio punto la previsión de crecimiento para España este año y no prevé que
+    el paro caiga hasta, al menos, 2022]]></title>
+      <description><![CDATA[El Fondo Monetario Internacional ha hecho públicas sus previsiones de otoño y
+        recorta en medio punto la previsión de crecimiento previa. El paro no retrocederá, al menos
+        hasta el año que viene&nbsp;
+        <a href="https://www.elmundo.es/economia/2021/10/12/616586fa21efa0ce2e8b45e4.html">Leer</a>
+        <img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;
+        cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;
+        si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[PABLO PARDO]]></dc:creator>
+      <link>https://www.elmundo.es/economia/2021/10/12/616586fa21efa0ce2e8b45e4.html</link>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[Lengua española]]></category>
+      <media:description type="html"><![CDATA[El Fondo Monetario Internacional ha hecho públicas sus
+        previsiones de otoño y recorta en medio punto la previsión de crecimiento previa. El paro no retrocederá, al menos hasta el año que viene]]></media:description>
+      <media:title type="html"><![CDATA[PREVISIONES DE OTOÑO]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340433935918.jpg" medium="image" width="3072" height="2015" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340433935918_150x0.jpg" width="150" height="98" />
+      <guid>https://www.elmundo.es/economia/2021/10/12/616586fa21efa0ce2e8b45e4.html</guid>
+      <pubDate>Tue, 12 Oct 2021 15:00:47 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tres de cada cuatro ciudadanos están orgullosos de ser españoles, aunque los jóvenes sienten más desafección]]></title>
+      <description><![CDATA[¿Cómo se sienten los ciudadanos ante su Fiesta Nacional? ¿Ante sus símbolos y su Historia? La respuesta sencilla dice que bien... y la complicada que depende de la ideología y la edad&nbsp;<a href="https://www.elmundo.es/papel/2021/10/11/61644e96e4d4d8e2638b45b2.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[LUIS ALEMANY]]></dc:creator>
+      <link>https://www.elmundo.es/papel/2021/10/11/61644e96e4d4d8e2638b45b2.html</link>
+      <category><![CDATA[Unidas Podemos]]></category>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[Vox]]></category>
+      <category><![CDATA[PSOE]]></category>
+      <category><![CDATA[PP]]></category>
+      <category><![CDATA[Ciudadanos]]></category>
+      <category><![CDATA[Casa Real]]></category>
+      <category><![CDATA[sigma2]]></category>
+      <category><![CDATA[Lengua española]]></category>
+      <media:description type="html"><![CDATA[¿Cómo se sienten los ciudadanos ante su Fiesta Nacional? ¿Ante sus símbolos y su Historia? La respuesta sencilla dice que bien... y la complicada que depende de la ideología y la edad]]></media:description>
+      <media:title type="html"><![CDATA[ENCUESTA SIGMA DOS]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339633551236.jpg" medium="image" width="1200" height="800" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339633551236_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/papel/2021/10/11/61644e96e4d4d8e2638b45b2.html</guid>
+      <pubDate>Tue, 12 Oct 2021 00:31:40 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Pedro Sánchez intenta blindarse del multitudinario abucheo en el 12-O acercándose a los Reyes]]></title>
+      <description><![CDATA[Gritos de "traidor" y de "dimisión" acompañaron su presencia en el acto, donde se dieron cita miles de personas&nbsp;<a href="https://www.elmundo.es/espana/2021/10/12/616551ecfc6c83c3638b4608.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[FERNANDO LÁZARO]]></dc:creator>
+      <link>https://www.elmundo.es/espana/2021/10/12/616551ecfc6c83c3638b4608.html</link>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[Pedro Sánchez]]></category>
+      <category><![CDATA[Coronavirus]]></category>
+      <category><![CDATA[ETA]]></category>
+      <category><![CDATA[Guardia Civil]]></category>
+      <category><![CDATA[Margarita Robles]]></category>
+      <category><![CDATA[Felipe VI]]></category>
+      <category><![CDATA[Isabel Díaz Ayuso]]></category>
+      <category><![CDATA[Cuca Gamarra]]></category>
+      <category><![CDATA[Pablo Casado]]></category>
+      <category><![CDATA[PP]]></category>
+      <category><![CDATA[Iñigo Urkullu]]></category>
+      <category><![CDATA[Podemos]]></category>
+      <category><![CDATA[Vox]]></category>
+      <category><![CDATA[Santiago Abascal Conde]]></category>
+      <category><![CDATA[Iván Espinosa de los Monteros]]></category>
+      <category><![CDATA[Ciudadanos]]></category>
+      <category><![CDATA[Inés Arrimadas]]></category>
+      <category><![CDATA[Casa Real]]></category>
+      <category><![CDATA[Pere Aragonès]]></category>
+      <category><![CDATA[Covid 19]]></category>
+      <media:description type="html"><![CDATA[Gritos de "traidor" y de "dimisión" acompañaron su presencia en el acto, donde se dieron cita miles de personas]]></media:description>
+      <media:title type="html"><![CDATA[DÍA DE LA FIESTA NACIONAL]]></media:title>
+      <guid>https://www.elmundo.es/espana/2021/10/12/616551ecfc6c83c3638b4608.html</guid>
+      <pubDate>Tue, 12 Oct 2021 14:09:56 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cs marca "perfil" y rasga la unidad constitucionalista en la manifestación del 12-O]]></title>
+      <description><![CDATA[El Govern anuncia que trabaja con normalidad ya que "no comparte el significado de una fiesta que no representa a la mayoría de catalanes" ya que es "la efeméride de un genocidio"&nbsp;<a href="https://www.elmundo.es/cataluna/2021/10/12/6165894cfc6c83ab038b456e.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[GERMÁN GONZÁLEZ]]></dc:creator>
+      <link>https://www.elmundo.es/cataluna/2021/10/12/6165894cfc6c83ab038b456e.html</link>
+      <category><![CDATA[Cataluña]]></category>
+      <category><![CDATA[Barcelona]]></category>
+      <category><![CDATA[Ciudadanos]]></category>
+      <category><![CDATA[PP]]></category>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[Vox]]></category>
+      <category><![CDATA[Mossos d&#039;Esquadra]]></category>
+      <category><![CDATA[América]]></category>
+      <category><![CDATA[CDR]]></category>
+      <category><![CDATA[Pedro Sánchez]]></category>
+      <category><![CDATA[PSC]]></category>
+      <category><![CDATA[Ignacio Garriga]]></category>
+      <category><![CDATA[Coronavirus]]></category>
+      <category><![CDATA[ciudadano]]></category>
+      <category><![CDATA[Pin parental]]></category>
+      <media:description type="html"><![CDATA[El Govern anuncia que trabaja con normalidad ya que "no comparte el significado de una fiesta que no representa a la mayoría de catalanes" ya que es "la efeméride de un genocidio"]]></media:description>
+      <media:title type="html"><![CDATA[POLÍTICA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340441988426.jpg" medium="image" width="3072" height="2044" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340441988426_150x0.jpg" width="150" height="99" />
+      <guid>https://www.elmundo.es/cataluna/2021/10/12/6165894cfc6c83ab038b456e.html</guid>
+      <pubDate>Tue, 12 Oct 2021 17:27:38 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Volcán en La Palma, última hora en directo | Ordenan la evacuación de nuevas áreas en La Palma ante el avance de la colada de lava por el noroeste]]></title>
+      <description><![CDATA[Binter ha indicado en sus redes sociales que continúan programados sus vuelos a la isla, pero recomienda a los pasajeros consultar el estado de su vuelo antes de viajar&nbsp;<a href="https://www.elmundo.es/ciencia-y-salud/ciencia/2021/10/12/616507fefc6c83b2128b45b6.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[ESTHER MUCIENTES, NOELIA MARÍN]]></dc:creator>
+      <link>https://www.elmundo.es/ciencia-y-salud/ciencia/2021/10/12/616507fefc6c83b2128b45b6.html</link>
+      <category><![CDATA[Volcán La Palma]]></category>
+      <category><![CDATA[La Palma]]></category>
+      <category><![CDATA[ciencia]]></category>
+      <category><![CDATA[Ciencia y Salud]]></category>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[Canarias]]></category>
+      <media:description type="html"><![CDATA[Binter ha indicado en sus redes sociales que continúan programados sus vuelos a la isla, pero recomienda a los pasajeros consultar el estado de su vuelo antes de viajar]]></media:description>
+      <media:title type="html"><![CDATA[CUMBRE VIEJA]]></media:title>
+      <guid>https://www.elmundo.es/ciencia-y-salud/ciencia/2021/10/12/616507fefc6c83b2128b45b6.html</guid>
+      <pubDate>Tue, 12 Oct 2021 16:06:26 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Boris Johnson se prepara para una guerra comercial con la Unión Europea]]></title>
+      <description><![CDATA[El secretario del Brexit reclama "cambios significativos" en el Protocolo de Irlanda y amenaza con la renuncia unilateral&nbsp;<a href="https://www.elmundo.es/internacional/2021/10/12/61645aaefdddff785a8b45f4.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[CARLOS FRESNEDA]]></dc:creator>
+      <link>https://www.elmundo.es/internacional/2021/10/12/61645aaefdddff785a8b45f4.html</link>
+      <category><![CDATA[Reino Unido]]></category>
+      <category><![CDATA[Londres]]></category>
+      <category><![CDATA[Unión Europea]]></category>
+      <category><![CDATA[Boris Johnson]]></category>
+      <category><![CDATA[Irlanda]]></category>
+      <category><![CDATA[Brexit]]></category>
+      <media:description type="html"><![CDATA[El secretario del Brexit reclama "cambios significativos" en el Protocolo de Irlanda y amenaza con la renuncia unilateral]]></media:description>
+      <media:title type="html"><![CDATA[REINO UNIDO]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339724767965.jpg" medium="image" width="1200" height="800" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339724767965_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/internacional/2021/10/12/61645aaefdddff785a8b45f4.html</guid>
+      <pubDate>Tue, 12 Oct 2021 01:49:57 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Chanchullos, estafas y amiguitos del alma: la gran fiesta de la corrupción 'made in Valencia']]></title>
+      <description><![CDATA[En su primer libro, Rodrigo Terrasa radiografía cómo la corrupción se adueñó de la sociedad valenciana durante 20 años. 'La fiesta en Valencia no se acaba nunca', presumió en una ocasión un alto cargo del PP. Él también acabó procesado&nbsp;<a href="https://www.elmundo.es/papel/historias/2021/10/10/6160728dfdddff8c758b45ed.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[RODRIGO TERRASA, JOSETXU L. PIÑEIRO (ILUSTRACIÓN)]]></dc:creator>
+      <link>https://www.elmundo.es/papel/historias/2021/10/10/6160728dfdddff8c758b45ed.html</link>
+      <category><![CDATA[Corrupción]]></category>
+      <category><![CDATA[Francisco Camps]]></category>
+      <category><![CDATA[Rita Barberá]]></category>
+      <category><![CDATA[Comunidad Valenciana]]></category>
+      <media:description type="html"><![CDATA[En su primer libro, Rodrigo Terrasa radiografía cómo la corrupción se adueñó de la sociedad valenciana durante 20 años. 'La fiesta en Valencia no se acaba nunca', presumió en una ocasión un alto cargo del PP. Él también acabó procesado]]></media:description>
+      <media:title type="html"><![CDATA[LA CIUDAD DE LA EUFORIA|Prepublicación]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/08/16337105110425.jpg" medium="image" width="1920" height="2280" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/08/16337105110425_150x0.jpg" width="150" height="178" />
+      <guid>https://www.elmundo.es/papel/historias/2021/10/10/6160728dfdddff8c758b45ed.html</guid>
+      <pubDate>Sun, 10 Oct 2021 21:28:38 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[El ataque del Gobierno a los planes de pensiones: son "caros, regresivos y no incentivan el ahorro"]]></title>
+      <description><![CDATA[El Gobierno ha dado otro golpe casi mortal a los planes de pensiones privados al limitar a 1.500 euros anuales la deducción por las aportaciones.&nbsp;<a href="https://www.elmundo.es/economia/2021/10/12/61603ded21efa0fc3b8b45eb.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[VICENTE LOZANO]]></dc:creator>
+      <link>https://www.elmundo.es/economia/2021/10/12/61603ded21efa0fc3b8b45eb.html</link>
+      <media:description type="html"><![CDATA[El Gobierno ha dado otro golpe casi mortal a los planes de pensiones privados al limitar a 1.500 euros anuales la deducción por las aportaciones.]]></media:description>
+      <media:title type="html"><![CDATA[JUBILACIÓN]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/08/16336987029911.jpg" medium="image" width="3072" height="2048" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/08/16336987029911_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/economia/2021/10/12/61603ded21efa0fc3b8b45eb.html</guid>
+      <pubDate>Tue, 12 Oct 2021 01:46:30 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Irene Montero coloca en Igualdad como asesores a una condenada y dos imputados pendientes de juicio por malversación]]></title>
+      <description><![CDATA[Ficha a Isa Serra, compañera de la Ejecutiva de Podemos, y los ex concejales 'antiCarmena' Carlos Sánchez Mato y Celia Mayer&nbsp;<a href="https://www.elmundo.es/espana/2021/10/12/61655cb6e4d4d885158bd506.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[ÁLVARO CARVAJAL]]></dc:creator>
+      <link>https://www.elmundo.es/espana/2021/10/12/61655cb6e4d4d885158bd506.html</link>
+      <category><![CDATA[Isabel Serra Sánchez]]></category>
+      <category><![CDATA[Irene Montero]]></category>
+      <category><![CDATA[Carlos Sánchez Mato]]></category>
+      <category><![CDATA[Manuela Carmena]]></category>
+      <category><![CDATA[Podemos]]></category>
+      <category><![CDATA[IU]]></category>
+      <category><![CDATA[Yolanda Díaz]]></category>
+      <category><![CDATA[Celia Mayer]]></category>
+      <category><![CDATA[igualdad]]></category>
+      <media:description type="html"><![CDATA[Ficha a Isa Serra, compañera de la Ejecutiva de Podemos, y los ex concejales 'antiCarmena' Carlos Sánchez Mato y Celia Mayer]]></media:description>
+      <media:title type="html"><![CDATA[POLÍTICA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340326427612.jpg" medium="image" width="3072" height="2043" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340326427612_150x0.jpg" width="150" height="99" />
+      <guid>https://www.elmundo.es/espana/2021/10/12/61655cb6e4d4d885158bd506.html</guid>
+      <pubDate>Tue, 12 Oct 2021 13:51:20 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Un hombre asesina a su mujer en Vitoria mientras sus hijos menores se encontraban en casa y después se suicida]]></title>
+      <description><![CDATA[El hombre la ha degollado con un cuchillo de cocina y después se ha suicidado&nbsp;<a href="https://www.elmundo.es/pais-vasco/2021/10/12/6165361ffc6c83814b8b4598.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[EFE]]></dc:creator>
+      <link>https://www.elmundo.es/pais-vasco/2021/10/12/6165361ffc6c83814b8b4598.html</link>
+      <category><![CDATA[País Vasco]]></category>
+      <category><![CDATA[Sucesos]]></category>
+      <category><![CDATA[Vitoria-Gasteiz]]></category>
+      <media:description type="html"><![CDATA[El hombre la ha degollado con un cuchillo de cocina y después se ha suicidado]]></media:description>
+      <media:title type="html"><![CDATA[SUCESOS]]></media:title>
+      <guid>https://www.elmundo.es/pais-vasco/2021/10/12/6165361ffc6c83814b8b4598.html</guid>
+      <pubDate>Tue, 12 Oct 2021 14:14:08 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[España, el segundo país europeo con más jóvenes ninis: "La gente empieza a desmotivarse"]]></title>
+      <description><![CDATA[Los expertos advierten del efecto que tiene la falta de oportunidades en medio millón de jóvenes de 25 años que no estudian ni encuentran trabajo&nbsp;<a href="https://www.elmundo.es/economia/2021/10/12/61647427fdddffa9ae8b459b.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[Guillermo del Palacio]]></dc:creator>
+      <link>https://www.elmundo.es/economia/2021/10/12/61647427fdddffa9ae8b459b.html</link>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[joven]]></category>
+      <category><![CDATA[ERTE]]></category>
+      <category><![CDATA[Paro]]></category>
+      <category><![CDATA[economía]]></category>
+      <media:description type="html"><![CDATA[Los expertos advierten del efecto que tiene la falta de oportunidades en medio millón de jóvenes de 25 años que no estudian ni encuentran trabajo]]></media:description>
+      <media:title type="html"><![CDATA[ECONOMÍA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339738650985.jpg" medium="image" width="2362" height="1506" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339738650985_150x0.jpg" width="150" height="95" />
+      <guid>https://www.elmundo.es/economia/2021/10/12/61647427fdddffa9ae8b459b.html</guid>
+      <pubDate>Tue, 12 Oct 2021 01:45:45 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Xavi Hernández, el deseado por todos menos por Laporta: "Si quiere, al filial"]]></title>
+      <description><![CDATA[El ex centrocampista se cree preparado para dirigir al Barça. El presidente quiere resistir hasta junio con Koeman. La mayoría le animan, pero otros le advierten: "No dirijas a quienes jugaron contigo"&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2021/10/12/6163160121efa0b9118b45e8.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[ORFEO SUÁREZ]]></dc:creator>
+      <link>https://www.elmundo.es/deportes/futbol/2021/10/12/6163160121efa0b9118b45e8.html</link>
+      <category><![CDATA[deportes]]></category>
+      <category><![CDATA[Fútbol]]></category>
+      <category><![CDATA[FC Barcelona]]></category>
+      <category><![CDATA[Joan Laporta]]></category>
+      <category><![CDATA[Xavi Hernández]]></category>
+      <category><![CDATA[Pep Guardiola]]></category>
+      <category><![CDATA[Gerard Piqué]]></category>
+      <category><![CDATA[Sergio Busquets]]></category>
+      <category><![CDATA[Jordi Alba]]></category>
+      <media:description type="html"><![CDATA[El ex centrocampista se cree preparado para dirigir al Barça. El presidente quiere resistir hasta junio con Koeman. La mayoría le animan, pero otros le advierten: "No dirijas a quienes jugaron contigo"]]></media:description>
+      <media:title type="html"><![CDATA[SUSURROS DEL DEPORTE]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/10/16338836326224.jpg" medium="image" width="3072" height="4104" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/10/16338836326224_150x0.jpg" width="150" height="200" />
+      <guid>https://www.elmundo.es/deportes/futbol/2021/10/12/6163160121efa0b9118b45e8.html</guid>
+      <pubDate>Tue, 12 Oct 2021 17:18:49 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Beatrix von Storch, vicepresidenta de AfD: "Si Bruselas hubiese apostado por una Europa de patrias soberanas no habría Brexit"]]></title>
+      <description><![CDATA[Nieta del ministro de Finanzas de Hitler, la 'número dos' de la formación de ultraderecha alemana representa el puente entre el ala pragmática y la radical&nbsp;<a href="https://www.elmundo.es/internacional/2021/10/12/61643d8521efa0690a8b4590.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[CARMEN VALERO]]></dc:creator>
+      <link>https://www.elmundo.es/internacional/2021/10/12/61643d8521efa0690a8b4590.html</link>
+      <category><![CDATA[Alemania]]></category>
+      <category><![CDATA[Vox]]></category>
+      <category><![CDATA[Europa]]></category>
+      <category><![CDATA[Angela Merkel]]></category>
+      <category><![CDATA[ONU]]></category>
+      <category><![CDATA[Parlamento Europeo]]></category>
+      <category><![CDATA[Unión Europea]]></category>
+      <category><![CDATA[partido]]></category>
+      <category><![CDATA[Mundo]]></category>
+      <media:description type="html"><![CDATA[Nieta del ministro de Finanzas de Hitler, la 'número dos' de la formación de ultraderecha alemana representa el puente entre el ala pragmática y la radical]]></media:description>
+      <media:title type="html"><![CDATA[ENTREVISTA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339743483983.jpg" medium="image" width="1200" height="800" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339743483983_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/internacional/2021/10/12/61643d8521efa0690a8b4590.html</guid>
+      <pubDate>Tue, 12 Oct 2021 01:50:14 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Juan José Cortés, detenido y puesto en libertad tras ser denunciado por una agresión]]></title>
+      <description><![CDATA[Al parecer, la agresión se produjo en la estación sevillana de Santa Justa, después de que la denunciante insultara a su hija Mariluz, fallecida en 2008&nbsp;<a href="https://www.elmundo.es/andalucia/2021/10/12/6165774efdddffb28f8b45e5.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[CHEMA RODRÍGUEZ]]></dc:creator>
+      <link>https://www.elmundo.es/andalucia/2021/10/12/6165774efdddffb28f8b45e5.html</link>
+      <category><![CDATA[Sevilla]]></category>
+      <category><![CDATA[Juan José Cortés]]></category>
+      <category><![CDATA[libertad]]></category>
+      <media:description type="html"><![CDATA[Al parecer, la agresión se produjo en la estación sevillana de Santa Justa, después de que la denunciante insultara a su hija Mariluz, fallecida en 2008]]></media:description>
+      <media:title type="html"><![CDATA[SEVILLA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340395991606.jpg" medium="image" width="3072" height="2074" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340395991606_150x0.jpg" width="150" height="101" />
+      <guid>https://www.elmundo.es/andalucia/2021/10/12/6165774efdddffb28f8b45e5.html</guid>
+      <pubDate>Tue, 12 Oct 2021 17:02:52 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[China, la única superviviente de la estrategia Covid-cero]]></title>
+      <description><![CDATA[El país asiático, epicentro de una pandemita que fue pionero en controlar,  lleva con las fronteras cerradas desde marzo de 2020&nbsp;<a href="https://www.elmundo.es/internacional/2021/10/12/6163ffe621efa0b9118b4606.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[LUCAS DE LA CAL]]></dc:creator>
+      <link>https://www.elmundo.es/internacional/2021/10/12/6163ffe621efa0b9118b4606.html</link>
+      <category><![CDATA[China]]></category>
+      <category><![CDATA[Coronavirus]]></category>
+      <category><![CDATA[Australia]]></category>
+      <category><![CDATA[Asia]]></category>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[Jacinda Ardern]]></category>
+      <category><![CDATA[Covid 19]]></category>
+      <media:description type="html"><![CDATA[El país asiático, epicentro de una pandemita que fue pionero en controlar,  lleva con las fronteras cerradas desde marzo de 2020]]></media:description>
+      <media:title type="html"><![CDATA[PANDEMIA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339724673517.jpg" medium="image" width="1200" height="800" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339724673517_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/internacional/2021/10/12/6163ffe621efa0b9118b4606.html</guid>
+      <pubDate>Tue, 12 Oct 2021 01:49:28 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Coronavirus, última hora | Aragonès anuncia la reapertura total de la cultura, el deporte y los bares en Cataluña desde el viernes]]></title>
+      <description><![CDATA[El presidente de la Generalitat ha anunciado que se terminarán las limitaciones de aforo y la hostelería recuperará su horario habitual, sin restricción de personas por mesa&nbsp;<a href="https://www.elmundo.es/ciencia-y-salud/salud/2021/10/12/61650b56e4d4d8cd278b45e5.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[ESTHER MUCIENTES, NOELIA MARÍN]]></dc:creator>
+      <link>https://www.elmundo.es/ciencia-y-salud/salud/2021/10/12/61650b56e4d4d8cd278b45e5.html</link>
+      <category><![CDATA[Coronavirus]]></category>
+      <category><![CDATA[Covid 19]]></category>
+      <category><![CDATA[Ciencia y Salud]]></category>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[Vacunas]]></category>
+      <category><![CDATA[salud]]></category>
+      <media:description type="html"><![CDATA[El presidente de la Generalitat ha anunciado que se terminarán las limitaciones de aforo y la hostelería recuperará su horario habitual, sin restricción de personas por mesa]]></media:description>
+      <media:title type="html"><![CDATA[COVID-19|Directo]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340433279210.jpg" medium="image" width="3072" height="1748" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340433279210_150x0.jpg" width="150" height="85" />
+      <guid>https://www.elmundo.es/ciencia-y-salud/salud/2021/10/12/61650b56e4d4d8cd278b45e5.html</guid>
+      <pubDate>Tue, 12 Oct 2021 18:01:02 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[La Generalitat no subvencionará a los centros educativos concertados que segreguen por sexo]]></title>
+      <description><![CDATA[El conseller de Educación ha defendido que la administración pública tiene que velar porque las escuelas "estén libres de cualquier tipo de discriminación, sea por sexo, por origen o por lengua"&nbsp;<a href="https://www.elmundo.es/cataluna/2021/10/12/61656f4621efa06a798b45dd.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[EL MUNDO]]></dc:creator>
+      <link>https://www.elmundo.es/cataluna/2021/10/12/61656f4621efa06a798b45dd.html</link>
+      <category><![CDATA[Educación]]></category>
+      <media:description type="html"><![CDATA[El conseller de Educación ha defendido que la administración pública tiene que velar porque las escuelas "estén libres de cualquier tipo de discriminación, sea por sexo, por origen o por lengua"]]></media:description>
+      <media:title type="html"><![CDATA[CATALUÑA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340376245766.jpg" medium="image" width="3072" height="2245" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340376245766_150x0.jpg" width="150" height="109" />
+      <guid>https://www.elmundo.es/cataluna/2021/10/12/61656f4621efa06a798b45dd.html</guid>
+      <pubDate>Tue, 12 Oct 2021 14:42:06 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tres personas fallecen y otras tres quedan atrapadas en sus vehículos en un accidente en Toledo]]></title>
+      <description><![CDATA[Según ha informado el servicio de urgencias y emergencias 112, el accidente ha tenido lugar a las 09:06 horas de este 12 de octubre a la altura del kilómetro 14 de la CM-3005&nbsp;<a href="https://www.elmundo.es/espana/2021/10/12/616554f521efa085468b460e.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[EFE]]></dc:creator>
+      <link>https://www.elmundo.es/espana/2021/10/12/616554f521efa085468b460e.html</link>
+      <category><![CDATA[Sucesos]]></category>
+      <category><![CDATA[Toledo]]></category>
+      <media:description type="html"><![CDATA[Según ha informado el servicio de urgencias y emergencias 112, el accidente ha tenido lugar a las 09:06 horas de este 12 de octubre a la altura del kilómetro 14 de la CM-3005]]></media:description>
+      <media:title type="html"><![CDATA[ESPAÑA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340308010746.jpg" medium="image" width="3072" height="2048" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340308010746_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/espana/2021/10/12/616554f521efa085468b460e.html</guid>
+      <pubDate>Tue, 12 Oct 2021 11:27:23 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Reina Letizia vs Isabel Díaz Ayuso, duelo de estilo en el desfile del 12 de octubre]]></title>
+      <description><![CDATA[La Reina con un vestido de silueta wrap en un delicado azul e Isabel Díaz Ayuso, empoderada de rojo, protagonizan el duelo de estilo en el desfile del 12 de octubre. Yolanda Díaz, también gana.&nbsp;<a href="https://www.elmundo.es/yodona/moda/2021/10/12/6165404cfdddff652c8b4601.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[MARISA DEL BOSQUE]]></dc:creator>
+      <link>https://www.elmundo.es/yodona/moda/2021/10/12/6165404cfdddff652c8b4601.html</link>
+      <category><![CDATA[YoDona]]></category>
+      <category><![CDATA[Reina Letizia]]></category>
+      <category><![CDATA[Tendencias de moda]]></category>
+      <category><![CDATA[moda]]></category>
+      <media:description type="html"><![CDATA[La Reina con un vestido de silueta wrap en un delicado azul e Isabel Díaz Ayuso, empoderada de rojo, protagonizan el duelo de estilo en el desfile del 12 de octubre. Yolanda Díaz, también gana.]]></media:description>
+      <media:title type="html"><![CDATA[TENDENCIAS]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340333890281.jpg" medium="image" width="505" height="360" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/12/16340333890281_150x0.jpg" width="150" height="106" />
+      <guid>https://www.elmundo.es/yodona/moda/2021/10/12/6165404cfdddff652c8b4601.html</guid>
+      <pubDate>Tue, 12 Oct 2021 12:54:49 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Borja Ortiz de Gondra: "No se puede regalar el perdón ni segundas oportunidades a quien no asume el daño de ETA"]]></title>
+      <description><![CDATA[El autor vasco cierra su trilogía familiar con 'Los últimos Gondra', una visita a la violencia del País Vasco y su proyección en las generaciones futuras&nbsp;<a href="https://www.elmundo.es/cultura/teatro/2021/10/12/61641f51fc6c83c9078b45f6.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[PABLO R. ROCES]]></dc:creator>
+      <link>https://www.elmundo.es/cultura/teatro/2021/10/12/61641f51fc6c83c9078b45f6.html</link>
+      <category><![CDATA[País Vasco]]></category>
+      <category><![CDATA[ETA]]></category>
+      <category><![CDATA[Madrid]]></category>
+      <category><![CDATA[París]]></category>
+      <category><![CDATA[Bilbao]]></category>
+      <category><![CDATA[gente]]></category>
+      <category><![CDATA[poder]]></category>
+      <category><![CDATA[doctrina parot]]></category>
+      <category><![CDATA[teatro]]></category>
+      <media:description type="html"><![CDATA[El autor vasco cierra su trilogía familiar con 'Los últimos Gondra', una visita a la violencia del País Vasco y su proyección en las generaciones futuras]]></media:description>
+      <media:title type="html"><![CDATA[TEATRO]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339720893047.jpg" medium="image" width="1281" height="1154" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339720893047_150x0.jpg" width="150" height="135" />
+      <guid>https://www.elmundo.es/cultura/teatro/2021/10/12/61641f51fc6c83c9078b45f6.html</guid>
+      <pubDate>Tue, 12 Oct 2021 17:14:07 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[El día que Wenger lo cambió todo con un cigarrillo en el palco de Highbury]]></title>
+      <description><![CDATA[Hoy se cumplen 25 años de su debut con el Arsenal, donde inició una revolución que marcaría para siempre al fútbol británico.&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2021/10/12/6163f84a21efa0e87b8b45a5.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[MIGUEL A. HERGUEDAS]]></dc:creator>
+      <link>https://www.elmundo.es/deportes/futbol/2021/10/12/6163f84a21efa0e87b8b45a5.html</link>
+      <category><![CDATA[deportes]]></category>
+      <category><![CDATA[fútbol]]></category>
+      <category><![CDATA[Premier League]]></category>
+      <category><![CDATA[Arsenal]]></category>
+      <category><![CDATA[AS Mónaco]]></category>
+      <category><![CDATA[Manchester United]]></category>
+      <media:description type="html"><![CDATA[Hoy se cumplen 25 años de su debut con el Arsenal, donde inició una revolución que marcaría para siempre al fútbol británico.]]></media:description>
+      <media:title type="html"><![CDATA[FÚTBOL|Premier League]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339885226037.jpg" medium="image" width="3072" height="2048" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339885226037_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/deportes/futbol/2021/10/12/6163f84a21efa0e87b8b45a5.html</guid>
+      <pubDate>Tue, 12 Oct 2021 09:29:39 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[El gigante 'mermante' de los Alpes: cómo el Mont Blanc pierde 21 centímetros cada año]]></title>
+      <description><![CDATA[Este fenómeno afecta a todas las montañas que tienen sus cimas cubiertas de nieve y también a las masas de hielo que cubren algunas regiones&nbsp;<a href="https://www.elmundo.es/ciencia-y-salud/ciencia/2021/10/12/61645f91fc6c83814b8b4581.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=https://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <dc:creator><![CDATA[ALFREDO MERINO]]></dc:creator>
+      <link>https://www.elmundo.es/ciencia-y-salud/ciencia/2021/10/12/61645f91fc6c83814b8b4581.html</link>
+      <category><![CDATA[ciencia]]></category>
+      <media:description type="html"><![CDATA[Este fenómeno afecta a todas las montañas que tienen sus cimas cubiertas de nieve y también a las masas de hielo que cubren algunas regiones]]></media:description>
+      <media:title type="html"><![CDATA[CIENCIA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339684781653.jpg" medium="image" width="2698" height="1913" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339684781653_150x0.jpg" width="150" height="106" />
+      <guid>https://www.elmundo.es/ciencia-y-salud/ciencia/2021/10/12/61645f91fc6c83814b8b4581.html</guid>
+      <pubDate>Tue, 12 Oct 2021 14:18:33 +0200</pubDate>
+    </item>
+  </channel>
+</rss>

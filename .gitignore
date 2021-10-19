@@ -119,3 +119,9 @@ rss-dom/FSToledo/.idea/
 rss-sax/.idea/
 
 rss-sax/target/
+
+rss-jdom/.idea/
+
+rss-jdom/target/
+
+rss-jdom/README.md
