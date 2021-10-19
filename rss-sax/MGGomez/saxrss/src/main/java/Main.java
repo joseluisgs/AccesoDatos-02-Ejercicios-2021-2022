@@ -11,7 +11,7 @@ public class Main {
         SAXParserFactory factory = SAXParserFactory.newInstance();
         SAXParser saxParser = factory.newSAXParser();
         LectorSax handler = new LectorSax();
-        saxParser.parse("C:\\Users\\Mario\\Desktop\\titulares.xml", handler);
+        saxParser.parse("http://ep00.epimg.net/rss/tags/noticias_mas_vistas.xml", handler);
         List<Noticia> noticias = handler.getNoticias();
 
         for (Noticia noticia : noticias) {
