@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Personas>
+  <Persona id="4">
+    <firstName>Carlos</firstName>
+    <lastName>Tévez</lastName>
+    <age>45</age>
+    <direccion>calle sagrada</direccion>
+  </Persona>
+  <Persona id="5">
+    <firstName>Sofía</firstName>
+    <lastName>Reyes</lastName>
+    <age>30</age>
+    <direccion>Av. de las lágrimas</direccion>
+  </Persona>
+  <Persona id="6">
+    <firstName>Arturo</firstName>
+    <lastName>Valls</lastName>
+    <age>55</age>
+    <direccion>Calle de Toledo</direccion>
+  </Persona>
+  <Persona id="7">
+    <firstName>Fernando</firstName>
+    <lastName>Torres</lastName>
+    <age>35</age>
+    <direccion>calle del mejor</direccion>
+  </Persona>
+</Personas>
