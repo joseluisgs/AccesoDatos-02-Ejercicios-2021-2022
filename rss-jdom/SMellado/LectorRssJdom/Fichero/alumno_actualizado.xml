@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+  <alumno id="1">
+    <nombre>Saul</nombre>
+    <dni>000000001</dni>
+    <comentario>Estudiante</comentario>
+    <curso>2ºDAM</curso>
+  </alumno>
+  <alumno id="2">
+    <nombre>Pedro</nombre>
+    <dni>000000002</dni>
+    <comentario>Trabajador</comentario>
+    <curso>2ºDAM</curso>
+  </alumno>
+  <alumno id="3">
+    <nombre>Raquel</nombre>
+    <dni>000000003</dni>
+    <comentario>Estudiante</comentario>
+    <curso>2ºDAM</curso>
+  </alumno>
+</alumnos>
